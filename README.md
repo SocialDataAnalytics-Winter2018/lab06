@@ -1,4 +1,4 @@
-# Lab 6 - Text Analysis and Social Network Analysis
+# Lab 6 - Text Analysis 
 
 ![](img/download.png)
 
